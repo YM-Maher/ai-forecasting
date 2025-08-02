@@ -1,4 +1,3 @@
-// Example: src/app/page.tsx (Home Page)
 export default function Dashboard() {
   return (
     <div className="space-y-6">
